@@ -1,4 +1,4 @@
-# Участие в переводе
+# თარგმანშ მონაწილეობა
 
 Для начала ознакомьтесь с [общими правилами](https://developer.mozilla.org/en-US/docs/MDN/Guidelines), в частности, со страницей ["Writing style guide"](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide).
 
