@@ -18,6 +18,7 @@ of active locales is:
 
 - `fr`
 - `ja`
+- `ka-GE`
 - `ko`
 - `pt-BR`
 - `ru`
