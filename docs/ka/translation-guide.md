@@ -1,8 +1,8 @@
-# თარგმანშ მონაწილეობა
+# თარგმანში მონაწილეობა
 
-Для начала ознакомьтесь с [общими правилами](https://developer.mozilla.org/en-US/docs/MDN/Guidelines), в частности, со страницей ["Writing style guide"](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide).
+გთხოვთ თავიდან გაეცნოთ [საერთო წესებს](https://developer.mozilla.org/en-US/docs/MDN/Guidelines), კერძოდ, გვერდიდან ["Writing style guide"](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide).
 
-Основная тема — [Перевод MDN на русский язык](https://github.com/mdn/translated-content/issues/276)
+ძირითადი თემა — [MDN-ის თარგმნა ქართულ ენაზე](https://github.com/mdn/translated-content/issues/276)
 
 ## Рекомендации по переводу
 
