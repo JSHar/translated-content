@@ -3293,6 +3293,7 @@
 /ja/docs/Web/API/Element/name	/ja/docs/Web/API
 /ja/docs/Web/API/Element/onfullscreenchange	/ja/docs/Web/API/Element/fullscreenchange_event
 /ja/docs/Web/API/Element/onfullscreenerror	/ja/docs/Web/API/Element/fullscreenerror_event
+/ja/docs/Web/API/Element/openOrClosedShadowRoot	/ja/docs/Mozilla/Add-ons/WebExtensions/API/dom/openOrClosedShadowRoot
 /ja/docs/Web/API/Element/select_event	/ja/docs/Web/API/HTMLInputElement/select_event
 /ja/docs/Web/API/Event/button	/ja/docs/Web/API/MouseEvent/button
 /ja/docs/Web/API/Event/createEvent	/ja/docs/Web/API/Document/createEvent
